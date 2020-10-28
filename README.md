@@ -39,3 +39,11 @@ Follow these steps for completing your project.
 
 - [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 
+## recordings
+
+authentication
+[jason 18](https://youtu.be/tjmZWGR4PPM)
+[luis 31](https://youtu.be/XrqSmZSkQ4w)
+[jason 14](https://youtu.be/aO1t0spoD_Y)
+sessions and cookies
+[jason 8](https://youtu.be/SRzMdvdXXpo)
