@@ -41,9 +41,15 @@ Follow these steps for completing your project.
 
 ## recordings
 
+day 1
+
 authentication
 [jason 18](https://youtu.be/tjmZWGR4PPM)
 [luis 31](https://youtu.be/XrqSmZSkQ4w)
 [jason 14](https://youtu.be/aO1t0spoD_Y)
+
+day 2
+[luis 26](https://youtu.be/lzL0H0ceJXo)
+
 sessions and cookies
 [jason 8](https://youtu.be/SRzMdvdXXpo)
